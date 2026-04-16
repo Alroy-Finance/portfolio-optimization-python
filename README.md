@@ -38,7 +38,6 @@ Lower-weight allocations (e.g., MSFT at 9%) indicate comparatively lower contrib
 The results highlight the importance of data-driven asset allocation rather than equal weighting.
 
 
-**Author**
-Alroy Fernandes
-
+**Author**  
+Alroy Fernandes  
 LinkedIn: linkedin.com/in/alroy-fernandes-ab0335153/
