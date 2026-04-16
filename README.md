@@ -34,4 +34,12 @@ Optimal portfolios lie on the Efficient Frontier
 Data-driven allocation improves investment decisions
 
 **Graph**
+
 <img width="917" height="581" alt="image" src="https://github.com/user-attachments/assets/5efe30e1-0140-40b2-92c9-4a6dac4cac75" />
+
+
+**Author**
+Alroy Fernandes
+
+LinkedIn: linkedin.com/in/alroy-fernandes-ab0335153/
+GitHub: (your profile)
